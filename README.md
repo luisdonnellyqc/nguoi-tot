@@ -1,0 +1,2 @@
+# nguoi-tot
+ham mo
